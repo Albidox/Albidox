@@ -1,0 +1,51 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sk Ashfaq Bux GitHub profile banner</title>
+  <desc id="desc">Backend API Service Console banner for a Java Backend Developer focused on Spring Boot APIs, PostgreSQL, dashboards, testing, and automation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.48" stop-color="#123047"/>
+      <stop offset="1" stop-color="#102A2A"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="92" y1="44" x2="1108" y2="276" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827" stop-opacity="0.94"/>
+      <stop offset="1" stop-color="#0B1220" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="shadow" x="68" y="20" width="1064" height="280" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#020617" flood-opacity="0.36"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <path d="M0 238C151 209 244 254 389 220C540 185 575 104 733 92C872 82 940 126 1200 84V320H0V238Z" fill="#14B8A6" fill-opacity="0.1"/>
+  <path d="M0 74C112 108 216 107 318 78C461 37 540 20 650 56C767 94 837 160 964 148C1060 139 1121 94 1200 62V0H0V74Z" fill="#38BDF8" fill-opacity="0.08"/>
+
+  <g filter="url(#shadow)">
+    <rect x="92" y="44" width="1016" height="232" rx="18" fill="url(#panel)" stroke="#334155"/>
+    <rect x="92" y="44" width="1016" height="42" rx="18" fill="#020617" fill-opacity="0.74"/>
+    <circle cx="121" cy="65" r="6" fill="#EF4444"/>
+    <circle cx="143" cy="65" r="6" fill="#F59E0B"/>
+    <circle cx="165" cy="65" r="6" fill="#22C55E"/>
+    <text x="190" y="70" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="15">backend-api-service-console</text>
+
+    <text x="128" y="132" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Sk Ashfaq Bux</text>
+    <text x="128" y="170" fill="#5EEAD4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Java Backend Developer</text>
+    <text x="128" y="207" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Spring Boot APIs  /  PostgreSQL systems  /  Dashboards  /  Testing  /  Automation</text>
+
+    <rect x="128" y="226" width="154" height="30" rx="8" fill="#0F766E" fill-opacity="0.34" stroke="#14B8A6" stroke-opacity="0.6"/>
+    <text x="146" y="247" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">REST APIs</text>
+    <rect x="296" y="226" width="146" height="30" rx="8" fill="#1D4ED8" fill-opacity="0.24" stroke="#60A5FA" stroke-opacity="0.45"/>
+    <text x="315" y="247" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">PostgreSQL</text>
+    <rect x="456" y="226" width="144" height="30" rx="8" fill="#CA8A04" fill-opacity="0.2" stroke="#FACC15" stroke-opacity="0.42"/>
+    <text x="475" y="247" fill="#FEF9C3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">API Testing</text>
+    <rect x="614" y="226" width="158" height="30" rx="8" fill="#7C3AED" fill-opacity="0.18" stroke="#A78BFA" stroke-opacity="0.38"/>
+    <text x="633" y="247" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Dashboards</text>
+
+    <g opacity="0.88">
+      <rect x="832" y="116" width="214" height="112" rx="14" fill="#020617" stroke="#334155"/>
+      <text x="854" y="148" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="15">service.status</text>
+      <text x="854" y="178" fill="#22C55E" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="700">READY</text>
+      <text x="854" y="207" fill="#CBD5E1" font-family="Consolas, 'Courier New', monospace" font-size="14">build - test - handoff</text>
+    </g>
+  </g>
+</svg>
