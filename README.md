@@ -69,3 +69,17 @@ I focus on backend-first systems that are easy to understand, easier to maintain
 - Portfolio: [sk-ashfaq-portfolio.netlify.app](https://sk-ashfaq-portfolio.netlify.app/)
 - LinkedIn: [Sk Ashfaq Bux](https://www.linkedin.com/in/sk-ashfaq-bux-83057b215/)
 - GitHub: [Albidox](https://github.com/Albidox)
+
+
+
+## ⚡ Production Engineering Case Studies & Benchmarks
+
+Empirical, reproducible performance audits and automation pipelines verified under strict asynchronous SLAs:
+
+| System / Domain | Baseline Failure | Solution & Architecture | Verified Impact | Technical Proof |
+| :--- | :--- | :--- | :--- | :--- |
+| **PostgreSQL 16** | 134 ms Seq Scan, 6,385 disk reads, sort spill | Composite covering index with  clause | **0.04 ms latency (3,350x speedup)**, 0 disk reads | [View Gist Audit →](https://gist.github.com/Albidox/51f3a69bc20daf1d73c9b8ef0be97100) |
+| **Spring Boot 3** | Hibernate N+1 query loop (51 queries fired) | Declarative  repository query | **1 single joined query (98% drop)**, green JUnit 5 | [View Gist Audit →](https://gist.github.com/Albidox/59349c50666eb99bb96256adaab374e7) |
+| **Web Automation** | Client-side dynamic SPA (0 items via HTTP) | Playwright CDP browser pipeline + Snappy Parquet | **100 quotes across 10 pages extracted**, clean CSV | [View Gist Benchmark →](https://gist.github.com/Albidox/829caa565a5404a3e2e2dbde6288cedc) |
+
+> *All solutions operate under a 100% asynchronous delivery model with zero video calls. Direct root-cause diagnostics, production DDL, and verified PRs within 24–48 hours.*
