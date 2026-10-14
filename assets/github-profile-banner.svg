@@ -1,51 +1,82 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Sk Ashfaq Bux GitHub profile banner</title>
-  <desc id="desc">Backend API Service Console banner for a Java Backend Developer focused on Spring Boot APIs, PostgreSQL, dashboards, testing, and automation.</desc>
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="banner2_title">
+  <title id="banner2_title">Sk Ashfaq Bux: Executive Minimalist Banner</title>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A"/>
-      <stop offset="0.48" stop-color="#123047"/>
-      <stop offset="1" stop-color="#102A2A"/>
+    <!-- Dark Obsidian Canvas -->
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="45%" stop-color="#0e131f"/>
+      <stop offset="100%" stop-color="#060911"/>
     </linearGradient>
-    <linearGradient id="panel" x1="92" y1="44" x2="1108" y2="276" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111827" stop-opacity="0.94"/>
-      <stop offset="1" stop-color="#0B1220" stop-opacity="0.9"/>
+
+    <!-- Emerald / Teal Accent Gradient -->
+    <linearGradient id="emerald_cyan" x1="0" y1="0" x2="500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2ea44f"/>
+      <stop offset="50%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
     </linearGradient>
-    <filter id="shadow" x="68" y="20" width="1064" height="280" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#020617" flood-opacity="0.36"/>
-    </filter>
+
+    <!-- Subtle Radial Spotlight -->
+    <radialGradient id="spotlight" cx="600" cy="170" r="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.12"/>
+      <stop offset="60%" stop-color="#00f0ff" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#090d16" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <path d="M0 238C151 209 244 254 389 220C540 185 575 104 733 92C872 82 940 126 1200 84V320H0V238Z" fill="#14B8A6" fill-opacity="0.1"/>
-  <path d="M0 74C112 108 216 107 318 78C461 37 540 20 650 56C767 94 837 160 964 148C1060 139 1121 94 1200 62V0H0V74Z" fill="#38BDF8" fill-opacity="0.08"/>
+  <!-- Background Base -->
+  <rect width="1200" height="340" rx="16" fill="url(#bg2)"/>
+  <rect width="1200" height="340" rx="16" fill="url(#spotlight)"/>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="15.5" stroke="#30363d" stroke-width="1"/>
 
-  <g filter="url(#shadow)">
-    <rect x="92" y="44" width="1016" height="232" rx="18" fill="url(#panel)" stroke="#334155"/>
-    <rect x="92" y="44" width="1016" height="42" rx="18" fill="#020617" fill-opacity="0.74"/>
-    <circle cx="121" cy="65" r="6" fill="#EF4444"/>
-    <circle cx="143" cy="65" r="6" fill="#F59E0B"/>
-    <circle cx="165" cy="65" r="6" fill="#22C55E"/>
-    <text x="190" y="70" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="15">backend-api-service-console</text>
+  <!-- Top Accent Neon Bar -->
+  <rect x="40" y="0" width="1120" height="3" rx="1.5" fill="url(#emerald_cyan)"/>
 
-    <text x="128" y="132" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Sk Ashfaq Bux</text>
-    <text x="128" y="170" fill="#5EEAD4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Java Backend Developer</text>
-    <text x="128" y="207" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Spring Boot APIs  /  PostgreSQL systems  /  Dashboards  /  Testing  /  Automation</text>
+  <!-- Center Content Layout -->
+  <g transform="translate(80, 56)">
+    <!-- Authority Tag -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="260" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <circle cx="14" cy="13" r="4" fill="#3fb950"/>
+      <text x="26" y="17" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="0.5">SYSTEMS &amp; BACKEND ARCHITECT</text>
+    </g>
 
-    <rect x="128" y="226" width="154" height="30" rx="8" fill="#0F766E" fill-opacity="0.34" stroke="#14B8A6" stroke-opacity="0.6"/>
-    <text x="146" y="247" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">REST APIs</text>
-    <rect x="296" y="226" width="146" height="30" rx="8" fill="#1D4ED8" fill-opacity="0.24" stroke="#60A5FA" stroke-opacity="0.45"/>
-    <text x="315" y="247" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">PostgreSQL</text>
-    <rect x="456" y="226" width="144" height="30" rx="8" fill="#CA8A04" fill-opacity="0.2" stroke="#FACC15" stroke-opacity="0.42"/>
-    <text x="475" y="247" fill="#FEF9C3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">API Testing</text>
-    <rect x="614" y="226" width="158" height="30" rx="8" fill="#7C3AED" fill-opacity="0.18" stroke="#A78BFA" stroke-opacity="0.38"/>
-    <text x="633" y="247" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Dashboards</text>
+    <!-- Main Title -->
+    <text x="0" y="74" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', sans-serif" font-size="44" font-weight="900" letter-spacing="-1">SK ASHFAQ BUX</text>
 
-    <g opacity="0.88">
-      <rect x="832" y="116" width="214" height="112" rx="14" fill="#020617" stroke="#334155"/>
-      <text x="854" y="148" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="15">service.status</text>
-      <text x="854" y="178" fill="#22C55E" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="700">READY</text>
-      <text x="854" y="207" fill="#CBD5E1" font-family="Consolas, 'Courier New', monospace" font-size="14">build - test - handoff</text>
+    <!-- Core Pitch -->
+    <text x="0" y="112" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', sans-serif" font-size="18" font-weight="600">Enterprise Database Internals &amp; Autonomous Distributed Workflows</text>
+    
+    <text x="0" y="142" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', sans-serif" font-size="14.5">Zero-downtime PostgreSQL 18 migrations, sub-millisecond query optimization, and Java 21 LTS microservices.</text>
+
+    <!-- 3 Big Metric Pillards -->
+    <g transform="translate(0, 178)">
+      <!-- Metric 1 -->
+      <g>
+        <rect x="0" y="0" width="220" height="48" rx="8" fill="#161b22" stroke="#30363d"/>
+        <text x="16" y="20" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">DELIVERABLES</text>
+        <text x="16" y="38" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" font-weight="700">43 Verified Live</text>
+      </g>
+
+      <!-- Metric 2 -->
+      <g transform="translate(236, 0)">
+        <rect x="0" y="0" width="220" height="48" rx="8" fill="#161b22" stroke="#30363d"/>
+        <text x="16" y="20" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">TEST PASS RATE</text>
+        <text x="16" y="38" fill="#00f0ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" font-weight="700">100% Deterministic</text>
+      </g>
+
+      <!-- Metric 3 -->
+      <g transform="translate(472, 0)">
+        <rect x="0" y="0" width="220" height="48" rx="8" fill="#161b22" stroke="#30363d"/>
+        <text x="16" y="20" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">SECURITY AUDIT</text>
+        <text x="16" y="38" fill="#a371f7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" font-weight="700">SARIF Zero Defects</text>
+      </g>
+
+      <!-- Metric 4 -->
+      <g transform="translate(708, 0)">
+        <rect x="0" y="0" width="240" height="48" rx="8" fill="#161b22" stroke="#30363d"/>
+        <text x="16" y="20" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">CORE STACK</text>
+        <text x="16" y="38" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="600">Java 21 / Postgres 18</text>
+      </g>
     </g>
   </g>
 </svg>

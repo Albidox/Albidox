@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Hero Section: Branded SVG Header with Dark/Light Support -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=SK%20ASHFAQ%20BUX&fontSize=42&fontColor=00f0ff&animation=fadeIn&subtext=Autonomous%20Systems%20Engineer%20%7C%20Backend%20Optimization%20Specialist&subfontSize=16&subfontColor=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f6f8fa,100:ffffff&height=220&section=header&text=SK%20ASHFAQ%20BUX&fontSize=42&fontColor=1f2328&animation=fadeIn&subtext=Autonomous%20Systems%20Engineer%20%7C%20Backend%20Optimization%20Specialist&subfontSize=16&subfontColor=57606a">
-  <img alt="Sk Ashfaq Bux: Autonomous Systems Engineer and Backend Optimization Specialist" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=SK%20ASHFAQ%20BUX&fontSize=42&fontColor=00f0ff&animation=fadeIn&subtext=Autonomous%20Systems%20Engineer%20%7C%20Backend%20Optimization%20Specialist&subfontSize=16&subfontColor=c9d1d9" width="100%">
-</picture>
+<p align="center">
+  <img src="assets/github-profile-banner.svg" alt="Sk Ashfaq Bux: Systems and Backend Architect" width="100%"/>
+</p>
 
 <!-- Above-the-Fold Diagnostic Value Hook -->
 <p align="center">
